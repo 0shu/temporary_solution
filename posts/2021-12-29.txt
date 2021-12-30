@@ -1,0 +1,52 @@
+Everything starts somewhere, my journey started years ago, this blog starts now.
+I'll get into all the minutae of things over the course of this post.
+Before I continue, I'd like to ask you a kindness, this shall be rough and uncut at first.
+My commitment is to openness rather than refinedness, and to that end I'm warning you I didnt study to be a writer, and I dont read as much as I should.
+I'm trying my best to write something of use for the world, in return I'd like to ask you try your best to read through it til it gets good, thanks!
+
+So, blogs, journeys, git repos. You're probably thinking: "It all smells a bit fishy, a bit like- dammit he's a game developer isnt he?"
+And true, that is my crime. 
+I make games, I want to make more, but games are a slow vehicle for ideas, taking years and tech and every production meeting with a full studio of staff could be a month's rent.
+I'm not at the level where I can afford to use games to say my truth.
+So a blog will do.
+
+But here's the thing. "Platforms" as we call them suck ass. Blogs are just words (and more than a few pictures of cute companion animals).
+I dont wanna force people to slog through ads and tracking cookies and all that nonsense, 
+and if I get any readership at all it will probably be from the more technical folk anyway.
+So I had an idea, a dumb one.
+Git is a beautiful monster. If I'm going to have to change platforms and make edits and distribute words in all sorts of ways why not cut the crap and make it distributable from the start.
+As I said above "openness", and what could be more open than a version history that stems right back to the start! :D 
+Wanna get the latest thing from me? Simply pull/clone the directory.
+Wanna see what stupid mistake I only caught 10 mins after publishing? Look at the previous commit lol.
+Not technical enough to use git confidently? Just look at whatever site I'm hosting it on (probably github for the start at least!)
+Wanna leave me a comment? Pull/merge requests! 
+It's practically perfect and I can't believe it's not more popular.
+Now, that said, I bet it's been done before by people with faster minds and sharper wits. Maybe one day I'll go looking for them, but I'm not here to copy others. 
+I came to this conclusion on my own. I'm gonna figure out the whole doing a blog thing myself too.
+That said comments and advice from friends are always welcome, just dont give me a link and say "do what this person says" I need to actually learn these lessons for myself not just duplicate another's work beat for beat.
+
+I sense already that I've used too many words.
+Perhaps the failing of a non-writer is in not knowing when to stop trying to be a writer and start keeping it short.
+
+So let's go over what we have so far:
+    - I'm starting a blog about game development.
+    - I'm going to make it via a git repo.
+    - I don't expect to be all that good yet but I'm going to try learn how to be better.
+
+Seems like a good roundup! So now I have to figure out what else you want to know and what to say huh?
+Who am I? 
+Why am I *really* writing this? 
+What skills/experience do I have?
+Can I establish some keywords, metrics for success, and come up with SMART goals?
+No - seriously, why the git thing?
+Who might find this useful?
+What if nobody reads it?
+What if people read it and don't like it?
+What if you're my BOSS and you're worried this will break NDA somehow?
+What if you're NOT my boss but you want to use this to steal all our secrets?
+What if you're not even working in the games industry but you came here from twitter and are really confused?
+What if I got CANCELLED for doing XYZ thing?
+What if I GET cancelled specifically for this blog?
+
+(addendum 2021-12-30)
+These are all very real questions that I hope I'll figure out one day too haha!
