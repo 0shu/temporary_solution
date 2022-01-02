@@ -33,10 +33,10 @@ But I wanted to make my intention clear from the start. (Plus, when I do make it
 
 ## Finally, today's content!
 Today I did a bit of shopping for stuff around the house, and came back with a big chunk of astroturf for our little balcony! We dont have the luxury of a garden, but I do still live green things, and  I decided to finally bite the bullet and make it cute :D <br>
-![Our new "grassy" balcony](/../images/balcony_astroturf.jpg)
+![Our new "grassy" balcony](/images/balcony_astroturf.jpg)
 
 Then I finally cracked out Death Stranding. <br>
-I'd seen Dunkey's review all those years ago and held off playing. Plus at the time of release I didn't really have a good enough system to run it lol.<br>
+I'd seen [Dunkey's review](https://www.youtube.com/watch?v=ukqZ5VOoK5s) all those years ago and held off playing. Plus at the time of release I didn't really have a good enough system to run it lol.<br>
 Playing now was nice. I liked it a lot so far. The art looks fucking glorious. AAA games are 'worth their salt' after all.<br>
 It eased me into the mechanics at a decent pace. Though I recon I was giving it an extra dose of goodwill in that I'm going into it to be a dude that walks places and expecting the game mechanics to be traversal based like a mario, rather than badassery based like a zelda. I'm not sure how much I believe in the "the world needs america!" narrative that's going on. But I do think starting the game post-covid definitely gives a unique and potentially unexpected perspective on the joy of simply walking places on your own, and the importance of reestablishing human connection after that loneliness.<br>
 I was unsure if I'd get a menu or an unskippable cutscene but I was pleasantly suprised that the game actually launched me into a menu where I could change settings! Hurray :D<br>
